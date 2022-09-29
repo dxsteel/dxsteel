@@ -1,6 +1,6 @@
 ### Hi there, I'm Dmytro 👋
 
-######[Email](mailto:dmytro.khomenko.it@gmail.com) [Linkedin](https://www.linkedin.com/in/dmytro-khomenko-dev/") [Telegram](https://www.t.me/DmytroKhomenko)
+###### [Email](mailto:dmytro.khomenko.it@gmail.com) [Linkedin](https://www.linkedin.com/in/dmytro-khomenko-dev/") [Telegram](https://www.t.me/DmytroKhomenko)
 
 ---
 
